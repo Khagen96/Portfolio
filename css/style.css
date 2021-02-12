@@ -32,8 +32,7 @@ a:visited {
   margin-left: 10px;
   font-size: 22px;
 }
-.header-heading {
-  background: url("../images/background.jpg") no-repeat;
-  background-size: cover;
+ .main-content {
+  margin-left: 10px;
 }
 
